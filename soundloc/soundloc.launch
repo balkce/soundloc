@@ -1,0 +1,5 @@
+<launch>
+  <node name="soundloc" pkg="soundloc" type="soundloc_node" output="screen">
+    <rosparam command="load" file="$(find soundloc)/soundloc_config.yaml" />
+  </node>
+</launch>

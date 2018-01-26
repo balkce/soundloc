@@ -1,0 +1,16 @@
+distance_between_mics: 0.21
+number_of_samples_of_noise: 10
+noise_threshold: 0.001
+noise_peak_change: 0.0015
+coherence_threshold: 30
+reverse_angle: true
+graph_out: true
+connect_ports: true
+write_vad_wavs: false
+tde_method: 2
+# 1 TDE_CC
+# 2 TDE_GCCPHAT
+tracking_method: 3
+# 1 TRACK_CLUSTER
+# 2 TRACK_MCMCDA
+# 3 TRACK_KALMAN
