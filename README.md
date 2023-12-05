@@ -1,3 +1,6 @@
+# NEW PACKAGE UPDATE
+There is an updated version of this package called [soundloc_kmeans](https://github.com/balkce/soundloc_kmeans) that is recommended.
+
 # soundloc
 Lightweight multiple sound source localization, based on a triangular microphone array.
 
